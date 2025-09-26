@@ -6,7 +6,7 @@ A high-performance, server-rendered Next.js App Router ecommerce application tem
 
 This template uses React Server Components, Server Actions, `Suspense`, `useOptimistic`, and more.
 
-<h3 id="v1-note"></h3>
+<h3 id="v1-notes"></h3>
 
 > Note: You can also refer to Vercel's original Next.js Commerce [here](https://github.com/vercel/commerce/tree/v1)
 
